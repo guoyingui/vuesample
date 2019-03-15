@@ -1,0 +1,9 @@
+{
+  "mustWorkHoursOfWeek": 40,
+  "reportedWorkHoursOfWeek": 0,
+  "missingWorkHoursOfWeek": 40,
+  "mustWorkHoursOfDay": 8,
+  "reportedWorkHoursOfDay": 0,
+  "missingWorkHoursOfDay": 0,
+  "success": "true"
+}

@@ -1,0 +1,12 @@
+{
+  "success": "true",
+  "days": [
+    { "date": "2018-11-12", "week": 1, "normal": 0 },
+    { "date": "2018-11-13", "week": 2, "normal": 0 },
+    { "date": "2018-11-14", "week": 3, "normal": 0 },
+    { "date": "2018-11-15", "week": 4, "normal": 1 },
+    { "date": "2018-11-16", "week": 5, "normal": 1 },
+    { "date": "2018-11-17", "week": 6, "normal": 0 },
+    { "date": "2018-11-18", "week": 7, "normal": 0 }
+  ]
+}
