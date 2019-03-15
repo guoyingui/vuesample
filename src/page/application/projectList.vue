@@ -3,7 +3,7 @@
         <x-header title="归属项目"></x-header>
         <group>
             <ul>
-                <li class="li1" v-for="item in items" :key="item.taskId" @click="addList(item)">
+                <li class="crad-list" v-for="item in items" :key="item.taskId" @click="addList(item)">
                     {{item.projectName}}
                 </li>
             </ul>
