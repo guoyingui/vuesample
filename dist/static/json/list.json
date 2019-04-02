@@ -1,0 +1,110 @@
+{
+  "list": [{
+    "userId": "1",
+    "timeSheetId": "1223043",
+    "taskId": "1672964",
+    "completePercent": "0.1",
+    "taskName": "1",
+    "approvalStart":"2",
+    "projectId": "2469",
+    "projectName": "电子交易风险监控2018年应用维护项目",
+    "wbsCode": "10.1",
+    "manHour": "4.66",
+    "topTaskId": "1672963",
+    "topTaskName": "M1810090001-报工",
+    "taskType": "1002",
+    "planEndDate": "2018-10-30",
+    "planStartDate": "2018-10-01",
+    "superiorTask": [],
+    "timeSheetDetails":[{
+      "userId":"123123",
+      "userName":"张三1",
+      "userManHour":"3",
+      "approveStatus":false
+    },{
+      "userId":"123123344",
+      "userName":"张三2",
+      "userManHour":"8",
+      "approveStatus":true
+    }]
+  }, {
+    "userId": "1",
+    "timeSheetId": "1223044",
+    "taskId": "1672967",
+    "completePercent": "0.3",
+    "taskName": "2.1",
+    "approvalStart":"3",
+    "projectId": "2469",
+    "projectName": "电子交易风险监控2018年应用维护项目",
+    "wbsCode": "10.2.1",
+    "manHour": "4.55",
+    "topTaskId": "1672963",
+    "topTaskName": "M1810090001-报工",
+    "taskType": "1004",
+    "planEndDate": "2018-10-30",
+    "planStartDate": "2018-10-08",
+    "superiorTask": [{
+      "taskName": "2"
+    }]
+  }, {
+    "userId": "1",
+    "timeSheetId": "1223045",
+    "taskId": "1672968",
+    "completePercent": "0.5",
+    "taskName": "2.2",
+    "approvalStart":"0",
+    "projectId": "2469",
+    "projectName": "电子交易风险监控2018年应用维护项目",
+    "wbsCode": "10.2.2",
+    "manHour": "4",
+    "topTaskId": "1672963",
+    "topTaskName": "M1810090001-报工",
+    "taskType": "1004",
+    "planEndDate": "2018-10-30",
+    "planStartDate": "2018-10-08",
+    "superiorTask": [{
+      "taskName": "2"
+    }]
+  }, {
+    "userId": "1",
+    "timeSheetId": "",
+    "taskId": "1672974",
+    "completePercent": "0.7",
+    "taskName": "2.2.1",
+    "approvalStart":"1",
+    "projectId": "2469",
+    "projectName": "电子交易风险监控2018年应用维护项目",
+    "wbsCode": "10.2.2.1",
+    "manHour": "",
+    "topTaskId": "1672963",
+    "topTaskName": "M1810090001-报工",
+    "taskType": "1004",
+    "planEndDate": "2018-10-30",
+    "planStartDate": "2018-10-08",
+    "superiorTask": [{
+      "taskName": "2"
+    }, {
+      "taskName": "2.2"
+    }]
+  }, {
+    "userId": "1",
+    "timeSheetId": "",
+    "taskId": "1672970",
+    "completePercent": "0.9",
+    "taskName": "B1",
+    "projectId": "2469",
+    "projectName": "电子交易风险监控2018年应用维护项目",
+    "wbsCode": "11.1",
+    "manHour": "",
+    "topTaskId": "1672969",
+    "topTaskName": "M1810120001-B",
+    "taskType": "1010",
+    "planEndDate": "2018-10-31",
+    "planStartDate": "2018-10-01",
+    "superiorTask": []
+  }],
+  "taskCount": 5,
+  "firstDayOfWeek": "2018-10-08",
+  "lastDayOfWeek": "2018-10-14",
+  "success": "true"
+}

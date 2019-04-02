@@ -1,0 +1,56 @@
+{
+    "success": true,
+    "root2": [
+        {
+            "stepid": 689,
+            "stepcode": "333",
+            "stepname": "333",
+            "fixflag": 0,
+            "stepsel": true,
+            "usermode": 2,
+            "usermodestr": "抢占",
+            "initusertype": 4,
+            "steptype": "处理",
+            "mustinput": 0,
+            "inituserid": "507",
+            "abailableuser": [
+                {
+                    "userid": 582,
+                    "username": "龚荣荣"
+                },
+                {
+                    "userid": 644,
+                    "username": "王磊"
+                }
+            ],
+            "userid": "",
+            "username": ""
+        }
+    ],
+    "tool": [
+        {
+            "toolid": "1",
+            "flowid": "770",
+            "formid": "532",
+            "configdisname": "保存",
+            "configname": "",
+            "configicon": "btn_icon_save.gif",
+            "configdesc": "",
+            "sequencekey": "1",
+            "systype": "0",
+            "savetag": "1"
+        },
+        {
+            "toolid": "2",
+            "flowid": "770",
+            "formid": "532",
+            "configdisname": "提交",
+            "configname": "",
+            "configicon": "btn_icon_submit.gif",
+            "configdesc": "",
+            "sequencekey": "2",
+            "systype": "0",
+            "savetag": "1"
+        }
+    ]
+}

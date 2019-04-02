@@ -1,0 +1,91 @@
+{
+  "success": "true",
+  "tasks": [
+    {
+      "taskId": "1368295",
+      "taskName": "项目管理",
+      "projectId": "2325",
+      "projectName": "PMS系统2017年应用维护升级项目",
+      "completePercent": "1",
+      "manHour": "100",
+      "wbsCode": "2.1",
+      "actualWorkload": "100",
+      "topTaskId": "1368294",
+      "topTaskName": "-2017年日常维护工作任务",
+      "timeSheetDetails": [
+        {
+          "userId": "5687",
+          "userName": "姚运梅",
+          "manHour": "4",
+          "timeSheetDate": "2017-02-07",
+          "timeSheetId": "776903",
+          "approvalState": "1",
+          "tmpApprovalState": "3",
+          "tmpApprovalDesc": "",
+          "canEdit": true
+        }
+      ]
+    },
+    {
+      "taskId": "1368297",
+      "taskName": "运维支持",
+      "projectId": "2325",
+      "projectName": "PMS系统2017年应用维护升级项目",
+      "completePercent": "1",
+      "manHour": "50",
+      "wbsCode": "2.3",
+      "actualWorkload": "50",
+      "topTaskId": "1368294",
+      "topTaskName": "-2017年日常维护工作任务",
+      "timeSheetDetails": [
+        {
+          "userId": "5687",
+          "userName": "姚运梅",
+          "manHour": "4",
+          "timeSheetDate": "2017-02-07",
+          "timeSheetId": "776905",
+          "approvalState": "1",
+          "tmpApprovalState": "",
+          "tmpApprovalDesc": "",
+          "canEdit": true
+        }
+      ]
+    },
+    {
+      "taskId": "1377383",
+      "taskName": "系统测试",
+      "projectId": "2325",
+      "projectName": "PMS系统2017年应用维护升级项目",
+      "completePercent": "1",
+      "manHour": "16",
+      "wbsCode": "4.12",
+      "actualWorkload": "16",
+      "topTaskId": "1371516",
+      "topTaskName": "-PMS质量审计功能优化",
+      "timeSheetDetails": [
+        {
+          "userId": "4599",
+          "userName": "王文龙",
+          "manHour": "8",
+          "timeSheetDate": "2017-02-07",
+          "timeSheetId": "771205",
+          "approvalState": "1",
+          "tmpApprovalState": "",
+          "tmpApprovalDesc": "",
+          "canEdit": true
+        },
+        {
+          "userId": "6072",
+          "userName": "易文辉",
+          "manHour": "8",
+          "timeSheetDate": "2017-02-07",
+          "timeSheetId": "776219",
+          "approvalState": "1",
+          "tmpApprovalState": "",
+          "tmpApprovalDesc": "",
+          "canEdit": true
+        }
+      ]
+    }
+  ]
+}

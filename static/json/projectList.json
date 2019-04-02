@@ -1,186 +1,69 @@
 {
-  "success": true,
-  "data": [{
-    "projectid": "9591",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目01",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  }, {
-    "projectid": "7853",
-    "projectcode": "SS13707_X151136",
-    "projectname": "郑州航空港经济综合实验区 （郑州新郑综合保税区）八号安置区小学",
-    "username": "潘枫",
-    "statname": "计划与执行（落地类）",
-    "departmentname": "UDG/UDG中国"
-  },{
-    "projectid": "9592",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目02",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9593",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目03",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9594",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目04",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9595",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目05",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9596",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目06",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9597",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目07",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9598",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目08",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9599",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目09",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9650",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目10",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9600",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目11",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9512",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目12",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9513",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目13",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9514",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目14",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9515",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目15",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9516",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目16",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9517",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目17",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9518",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目18",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9519",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目19",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9520",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目20",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9560",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目20",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9521",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目21",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9522",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目22",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9523",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目23",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  },{
-    "projectid": "9524",
-    "projectcode": "X170446",
-    "projectname": "VP测试项目24",
-    "username": "杨杨",
-    "statname": "概念立项",
-    "departmentname": "UDG"
-  }]
+    "count": 4,
+    "sucess": true,
+    "listData": [{
+            "user": "潘素君",
+            "startdate": "2019-03-22 19:04:02",
+            "enddate": "",
+            "objectname": "psj-2019-03-22",
+            "flowname": "单一来源_公开询价（预算100万（含）以上）",
+            "stepname": "风险管理处_主管处长审核",
+            "flowid": 754,
+            "flowInsId": 759,
+            "stepid": 528,
+            "stepInsId": 624,
+            "objectid": 2506,
+            "objecttype": 2001,
+            "projectcode": "",
+            "projectname": ""
+        },
+        {
+            "user": "PA",
+            "startdate": "2019-03-22 18:31:10",
+            "enddate": "",
+            "objectname": "jxw-2019-3-22",
+            "flowname": "单一来源_公开询价（预算100万（含）以上）",
+            "stepname": "商务管理岗审核人",
+            "flowid": 754,
+            "flowInsId": 758,
+            "stepid": 508,
+            "stepInsId": 618,
+            "objectid": 2505,
+            "objecttype": 2001,
+            "projectcode": "",
+            "projectname": ""
+        },
+        {
+            "user": "PA",
+            "startdate": "2019-03-21 23:31:11",
+            "enddate": "",
+            "objectname": "jxw_2",
+            "flowname": "单一来源_公开询价（预算100万（含）以上）",
+            "stepname": "项目经理发起",
+            "flowid": 753,
+            "flowInsId": 756,
+            "stepid": 505,
+            "stepInsId": 613,
+            "objectid": 2493,
+            "objecttype": 2001,
+            "projectcode": "",
+            "projectname": ""
+        },
+        {
+            "user": "admin",
+            "startdate": "2019-03-21 23:23:05",
+            "enddate": "",
+            "objectname": "jxw-001-2019-3-21",
+            "flowname": "单一来源_公开询价（预算100万（含）以上）",
+            "stepname": "风险管理处_主管处长审核",
+            "flowid": 753,
+            "flowInsId": 755,
+            "stepid": 528,
+            "stepInsId": 625,
+            "objectid": 2491,
+            "objecttype": 2001,
+            "projectcode": "",
+            "projectname": ""
+        }
+    ]
 }

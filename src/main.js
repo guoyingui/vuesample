@@ -40,6 +40,7 @@ Vue.use(LocalePlugin)
 Vue.use(DatetimePlugin);
 /* eslint-disable no-new */
 router.beforeEach((to, from, next) => {
+    console.log(to);
     if (to.meta.requireAuth) {
         //判断该路由是否需要登录权限
         if (localStorage.getItem("loginStatus")) {
@@ -57,15 +58,15 @@ router.beforeEach((to, from, next) => {
     }
 });
 
-
 // 配置 axios
 Vue.prototype.$http = Vue.prototype.$http.create({
-    baseURL: 'http://localhost:8101',
+    baseURL:'http://localhost:8080',
+    // baseURL:'http://172.16.33.128:8090/project',
     // baseURL: "http://172.20.10.5:8080/project/second/app/timesheet",
     timeout: 5000,
     headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        Accept: "application/x-www-form-urlencoded;charset=utf-8"
+        //'Content-Type': 'application/x-www-form-urlencoded',
+        Accept: "application/x-www-form-urlencoded;charset=utf-8",
     },
     transformRequest: [
         function (data) {
@@ -75,10 +76,10 @@ Vue.prototype.$http = Vue.prototype.$http.create({
             }
             return ret;
         }
-    ]
+    ],
     // 跨域请求cookie
-    // withCredentials:true
-    // headers: {'D-REQUEST-FROM': 'wap'}
+    withCredentials:true,
+    //headers: {'D-REQUEST-FROM': 'wap'}
 });
 
 //常见请求实例配置项

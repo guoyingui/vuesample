@@ -462,8 +462,8 @@
                 this.addproject();
             },
             addproject() {
-                // this.$http.get('/timesheet/getProjectList.jsp').then(({
-                this.$http.get("../../../static/json/projectData.json").then(({
+                this.$http.get('/project/getProjectList.jsp').then(({
+                // this.$http.get("../../../static/json/projectData.json").then(({
                     data
                 }) => {
                     this.itemless = data.list;

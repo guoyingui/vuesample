@@ -1,125 +1,503 @@
 {
-  "fieldList": [{
-      "fieldID": "code",
-      "fieldText": "供应商编号",
-      "fieldType": "0",
-      "fieldValue": "GYS_2017101050762",
-      "systype": "2"
-    }, {
-      "fieldID": "name",
-      "fieldText": "供应商名称",
-      "fieldType": "0",
-      "fieldValue": "行政供应商01",
-      "systype": "2"
+    "fid": null,
+    "formEventList": [],
+    "stepOpinion": {
+        "note": "",
+        "opinion": "PROCESS",
+        "wfId": 773,
+        "wfStepId": 698
     },
-    {
-      "fieldID": "creator",
-      "fieldText": "供应商创建人",
-      "fieldType": "91",
-      "fieldValue": "1",
-      "systype": "2"
-    }, {
-      "fieldID": "createdate",
-      "fieldText": "创建时间",
-      "fieldType": "8",
-      "fieldValue": "2017-10-10",
-      "systype": "2"
-    }, {
-      "fieldID": "departmentid",
-      "fieldText": "创建人部门",
-      "fieldType": "93",
-      "fieldValue": "1",
-      "systype": "2"
-    }, {
-      "fieldID": "m_wflxr",
-      "fieldText": "我方联系人",
-      "fieldType": "81",
-      "fieldValue": "2",
-      "systype": "2"
-    }, {
-      "fieldID": "m_dj",
-      "fieldText": "等级",
-      "fieldType": "0",
-      "fieldValue": "",
-      "systype": "2"
-    }, {
-      "fieldID": "m_dz",
-      "fieldText": "地址",
-      "fieldType": "0",
-      "fieldValue": "北京",
-      "systype": "2"
-    }, {
-      "fieldID": "m_gsgw",
-      "fieldText": "公司官网",
-      "fieldType": "0",
-      "fieldValue": "",
-      "systype": "2"
-    }, {
-      "fieldID": "m_xwqy",
-      "fieldText": "是否小微企业",
-      "fieldType": "15",
-      "fieldValue": "1",
-      "systype": "2"
-    }, {
-      "fieldID": "m_lsgys",
-      "fieldText": "是否临时供应商",
-      "fieldType": "15",
-      "fieldValue": "1",
-      "systype": "2"
-    }, {
-      "fieldID": "m_pj",
-      "fieldText": "评价",
-      "fieldType": "1",
-      "fieldValue": "44",
-      "systype": "2"
-    }, {
-      "fieldID": "m_zzzs",
-      "fieldText": "资质证书",
-      "fieldType": "85",
-      "fieldValue": "",
-      "systype": "2"
-    }, {
-      "fieldID": "m_khr",
-      "fieldText": "开户人",
-      "fieldType": "0",
-      "fieldValue": "用户c",
-      "systype": "2"
-    }, {
-      "fieldID": "m_khh",
-      "fieldText": "开户行",
-      "fieldType": "0",
-      "fieldValue": "北京",
-      "systype": "2"
-    }, {
-      "fieldID": "m_yhzh",
-      "fieldText": "银行账号",
-      "fieldType": "0",
-      "fieldValue": "23424234323",
-      "systype": "2"
-    }, {
-      "fieldID": "m_sh",
-      "fieldText": "税号",
-      "fieldType": "0",
-      "fieldValue": "4324234t",
-      "systype": "2"
-    }
-  ],
-  "fieldLen": 17,
-  "fileList": [],
-  "fileListLen": 0,
-  "flowid": "12210",
-  "flowexpid": "24061",
-  "stepid": "20868",
-  "stepexpid": "86577",
-  "objectid": "50762",
-  "objecttype": "2595",
-  "formtype": "1",
-  "savetag": 0,
-  "formid": "1489",
-  "fid": "44",
-  "opinion": "SYS_PROCESS",
-  "note": "",
-  "steptype": "8",
-  "stepUserArr": "",
-  "stepUserArrLen": ""
+    "allStepVector": [
+        {
+            "STEPNAME": "222",
+            "STEPID": "688"
+        },
+        {
+            "STEPNAME": "333",
+            "STEPID": "689"
+        },
+        {
+            "STEPNAME": "44",
+            "STEPID": "690"
+        },
+        {
+            "STEPNAME": "55",
+            "STEPID": "691"
+        }
+    ],
+    "hisSteps": [],
+    "objectName": "VMware软件许可扩容采购项目",
+    "zytz": null,
+    "fromFieldEventList": [],
+    "steptype": "8",
+    "formInfo": {
+        "flowid": "770",
+        "flowname": "",
+        "formdesc": "",
+        "forminfoid": 532,
+        "formname": "3333",
+        "formtype": 1,
+        "showOpinion": 1
+    },
+    "workItemlist": [
+        {
+            "defaultwrap": "1",
+            "entityid": "2001",
+            "fid": "",
+            "formid": "532",
+            "listFiled": [
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "m_111",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "1111",
+                    "len": "1",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "1",
+                    "systype": "0",
+                    "title": "1111",
+                    "value": ""
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "flowname",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "flowname",
+                    "inputtype": "0",
+                    "ismobile": "0",
+                    "labname": "流程名称",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "2",
+                    "systype": "1",
+                    "title": "流程名称",
+                    "value": "我问问"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "stepname",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "stepname",
+                    "inputtype": "0",
+                    "ismobile": "0",
+                    "labname": "步骤名称",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "3",
+                    "systype": "1",
+                    "title": "步骤名称",
+                    "value": "11111"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "code",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "code",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "编号",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "4",
+                    "systype": "2",
+                    "title": "编号",
+                    "value": ""
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "8",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "createdate",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "createdate",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "创建时间",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "5",
+                    "systype": "2",
+                    "title": "创建时间",
+                    "value": "2018-06-25"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "91",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "creator",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "690",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "创建者",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "6",
+                    "systype": "2",
+                    "title": "创建者",
+                    "value": "张宪铎"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "93",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "departmentid",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "509",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "归属部门",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "eee",
+                    "sequencekey": "7",
+                    "systype": "2",
+                    "title": "归属部门",
+                    "value": "运维中心"
+                }
+            ],
+            "nodeName": "eee",
+            "sequencekey": "1",
+            "viewable": "1",
+            "wrapable": "1"
+        },
+        {
+            "defaultwrap": "0",
+            "entityid": "2001",
+            "fid": "",
+            "formid": "532",
+            "listFiled": [
+                {
+                    "clickFnBody": "",
+                    "datatype": "11",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "m_sqbm",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "m_sqbm",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "申请部门",
+                    "len": "",
+                    "listVal": [
+                        {
+                            "dspval": "风险管理处",
+                            "intval": 1
+                        },
+                        {
+                            "dspval": "规划管理处",
+                            "intval": 2
+                        },
+                        {
+                            "dspval": "开发中心",
+                            "intval": 3
+                        },
+                        {
+                            "dspval": "开发中心_1",
+                            "intval": 4
+                        },
+                        {
+                            "dspval": "开发中心_产品开发处",
+                            "intval": 5
+                        },
+                        {
+                            "dspval": "数据管理与服务处",
+                            "intval": 6
+                        },
+                        {
+                            "dspval": "信用卡技术处",
+                            "intval": 7
+                        },
+                        {
+                            "dspval": "运维中心",
+                            "intval": 8
+                        },
+                        {
+                            "dspval": "运维中心_应用管理处",
+                            "intval": 9
+                        },
+                        {
+                            "dspval": "质量中心",
+                            "intval": 10
+                        },
+                        {
+                            "dspval": "综合管理处",
+                            "intval": 11
+                        }
+                    ],
+                    "name": "",
+                    "nodename": "wwew",
+                    "sequencekey": "8",
+                    "systype": "2",
+                    "title": "申请部门",
+                    "value": "0"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "m_ywbm",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "m_ywbm",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "业务部门",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "wwew",
+                    "sequencekey": "9",
+                    "systype": "2",
+                    "title": "业务部门",
+                    "value": "信息科技部"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "name",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "name",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "名称",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "wwew",
+                    "sequencekey": "10",
+                    "systype": "2",
+                    "title": "名称",
+                    "value": "VMware软件许可扩容采购项目"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "11",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "objstat",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "objstat",
+                    "inputtype": "0",
+                    "ismobile": "0",
+                    "labname": "状态",
+                    "len": "",
+                    "listVal": [
+                        {
+                            "dspval": "材料提交",
+                            "intval": 594
+                        },
+                        {
+                            "dspval": "流程中",
+                            "intval": 595
+                        },
+                        {
+                            "dspval": "完成",
+                            "intval": 596
+                        },
+                        {
+                            "dspval": "强制终止",
+                            "intval": 597
+                        },
+                        {
+                            "dspval": "系统外审批",
+                            "intval": 598
+                        }
+                    ],
+                    "name": "",
+                    "nodename": "wwew",
+                    "sequencekey": "11",
+                    "systype": "2",
+                    "title": "状态",
+                    "value": "598"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "11",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "objtype",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "objtype",
+                    "inputtype": "0",
+                    "ismobile": "0",
+                    "labname": "类别",
+                    "len": "",
+                    "listVal": [
+                        {
+                            "dspval": "单一来源_公开询价（预算100万（含）以上）",
+                            "intval": 600
+                        },
+                        {
+                            "dspval": "单一来源_后续升级改造类（预算100万（含）以上）",
+                            "intval": 603
+                        },
+                        {
+                            "dspval": "单一来源_直签（预算100万（不含）以下）",
+                            "intval": 642
+                        },
+                        {
+                            "dspval": "单一来源_后续升级改造类（预算100万（不含）以下）",
+                            "intval": 643
+                        },
+                        {
+                            "dspval": "单一来源_后续应用维护类（预算100万（含）以上）",
+                            "intval": 646
+                        },
+                        {
+                            "dspval": "单一来源_后续应用维护类（预算100万（不含）以下）",
+                            "intval": 647
+                        },
+                        {
+                            "dspval": "竞争性磋商（预算100万（含）以上）",
+                            "intval": 648
+                        },
+                        {
+                            "dspval": "单一来源_唯一代理商（预算100万（含）以上）",
+                            "intval": 601
+                        },
+                        {
+                            "dspval": "单一来源_直签（预算100万（含）以上）",
+                            "intval": 602
+                        },
+                        {
+                            "dspval": "单一来源_邀请询价（预算100万（不含）以下）",
+                            "intval": 628
+                        },
+                        {
+                            "dspval": "公开竞争性谈判",
+                            "intval": 629
+                        },
+                        {
+                            "dspval": "邀请竞争性谈判",
+                            "intval": 640
+                        },
+                        {
+                            "dspval": "单一来源_唯一代理商（预算100万（不含）以下）",
+                            "intval": 641
+                        },
+                        {
+                            "dspval": "竞争性磋商（预算100万（不含）以下）",
+                            "intval": 649
+                        },
+                        {
+                            "dspval": "战略协议",
+                            "intval": 650
+                        },
+                        {
+                            "dspval": "公开招标",
+                            "intval": 598
+                        },
+                        {
+                            "dspval": "邀请询价（多种产品，预算100万（不含）以下）",
+                            "intval": 599
+                        }
+                    ],
+                    "name": "",
+                    "nodename": "wwew",
+                    "sequencekey": "12",
+                    "systype": "2",
+                    "title": "类别",
+                    "value": "600"
+                },
+                {
+                    "clickFnBody": "",
+                    "datatype": "0",
+                    "defaultval": "",
+                    "dspcol": "1",
+                    "entityid": "2001",
+                    "fid": "",
+                    "filedname": "remark",
+                    "flowid": "",
+                    "formid": "532",
+                    "hidvalue": "remark",
+                    "inputtype": "1",
+                    "ismobile": "0",
+                    "labname": "备注",
+                    "len": "",
+                    "listVal": [],
+                    "name": "",
+                    "nodename": "wwew",
+                    "sequencekey": "13",
+                    "systype": "2",
+                    "title": "备注",
+                    "value": ""
+                }
+            ],
+            "nodeName": "wwew",
+            "sequencekey": "2",
+            "viewable": "1",
+            "wrapable": "0"
+        }
+    ],
+    "stepName": "11111"
 }
